@@ -1,6 +1,3 @@
-- Me chamo Bruno, atualmente estudante na Universidade Federal de Juiz de Fora, gostou muito da área de tecnologia,
-de programar e também atualmente sou aluno na Codi Academy de Juiz de Fora.
-
 <div align="center">
   <a href="https://github.com/brunoedson1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoedson1&show_icons=true&theme=github_dark" "&include_all_commits=true&count_private=true"/>
